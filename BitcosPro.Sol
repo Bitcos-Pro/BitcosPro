@@ -1,0 +1,155 @@
+/**
+ *Submitted for verification at BscScan.com on 2025-10-19
+*/
+
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.24;
+
+/*
+===========================================================
+Bitcos Pro Token (BOS)
+Standard     : BEP20 / ERC20 Compatible
+Total Supply : 10,000,000
+Decimals     : 18
+===========================================================
+*/
+
+interface IERC20 {
+    function totalSupply() external view returns (uint256);
+    function balanceOf(address account) external view returns (uint256);
+    function transfer(address recipient, uint256 amount) external returns (bool);
+    function allowance(address owner, address spender) external view returns (uint256);
+    function approve(address spender, uint256 amount) external returns (bool);
+    function transferFrom(address sender, address recipient, uint256 amount) external returns (bool);
+
+    event Transfer(address indexed from, address indexed to, uint256 value);
+    event Approval(address indexed owner, address indexed spender, uint256 value);
+}
+
+// ---------------------------------------------------------------------------
+// Standard Ownable
+// ---------------------------------------------------------------------------
+abstract contract Ownable {
+    address private _owner;
+
+    event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
+
+    constructor() {
+        _owner = msg.sender;
+        emit OwnershipTransferred(address(0), _owner);
+    }
+
+    function owner() public view returns (address) {
+        return _owner;
+    }
+
+    modifier onlyOwner() {
+        require(msg.sender == _owner, "Caller is not the owner");
+        _;
+    }
+
+    function renounceOwnership() public onlyOwner {
+        emit OwnershipTransferred(_owner, address(0));
+        _owner = address(0);
+    }
+
+    function transferOwnership(address newOwner) public onlyOwner {
+        require(newOwner != address(0), "New owner cannot be zero address");
+        emit OwnershipTransferred(_owner, newOwner);
+        _owner = newOwner;
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Bitcos Pro Token Contract
+// ---------------------------------------------------------------------------
+contract BitcosPro is IERC20, Ownable {
+    string private constant _name = "Bitcos Pro";
+    string private constant _symbol = "BOS";
+    uint8 private constant _decimals = 18;
+    uint256 private constant _totalSupply = 10_000_000 * 10 ** uint256(_decimals);
+
+    mapping(address => uint256) private _balances;
+    mapping(address => mapping(address => uint256)) private _allowances;
+
+    // Optional unique event for structural uniqueness
+    event TokenLaunched(address indexed owner, uint256 totalSupply);
+
+    constructor() {
+        _balances[msg.sender] = _totalSupply;
+        emit Transfer(address(0), msg.sender, _totalSupply);
+        emit TokenLaunched(msg.sender, _totalSupply);
+    }
+
+    // -----------------------------------------------------------------------
+    // ERC20 Standard Functions
+    // -----------------------------------------------------------------------
+    function name() external pure returns (string memory) {
+        return _name;
+    }
+
+    function symbol() external pure returns (string memory) {
+        return _symbol;
+    }
+
+    function decimals() external pure returns (uint8) {
+        return _decimals;
+    }
+
+    function totalSupply() external pure override returns (uint256) {
+        return _totalSupply;
+    }
+
+    function balanceOf(address account) external view override returns (uint256) {
+        return _balances[account];
+    }
+
+    function transfer(address recipient, uint256 amount) external override returns (bool) {
+        _transfer(msg.sender, recipient, amount);
+        return true;
+    }
+
+    function allowance(address owner, address spender) external view override returns (uint256) {
+        return _allowances[owner][spender];
+    }
+
+    function approve(address spender, uint256 amount) external override returns (bool) {
+        require(spender != address(0), "Approve to zero address");
+        _allowances[msg.sender][spender] = amount;
+        emit Approval(msg.sender, spender, amount);
+        return true;
+    }
+
+    function transferFrom(address sender, address recipient, uint256 amount) external override returns (bool) {
+        require(_allowances[sender][msg.sender] >= amount, "Allowance exceeded");
+        unchecked {
+            _allowances[sender][msg.sender] -= amount;
+        }
+        _transfer(sender, recipient, amount);
+        emit Approval(sender, msg.sender, _allowances[sender][msg.sender]);
+        return true;
+    }
+
+    // -----------------------------------------------------------------------
+    // Internal Transfer Function
+    // -----------------------------------------------------------------------
+    function _transfer(address sender, address recipient, uint256 amount) internal {
+        require(sender != address(0), "Transfer from zero address");
+        require(recipient != address(0), "Transfer to zero address");
+        require(_balances[sender] >= amount, "Insufficient balance");
+
+        unchecked {
+            _balances[sender] -= amount;
+            _balances[recipient] += amount;
+        }
+
+        emit Transfer(sender, recipient, amount);
+    }
+
+    // -----------------------------------------------------------------------
+    // Optional helper function
+    // -----------------------------------------------------------------------
+    function tokenDetails() external pure returns (string memory, string memory, uint8, uint256) {
+        return (_name, _symbol, _decimals, _totalSupply);
+    }
+}
