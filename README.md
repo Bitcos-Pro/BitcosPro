@@ -59,3 +59,8 @@ While the BOS smart contract has undergone independent security auditing,
 no system can be guaranteed to be completely risk-free. Users are encouraged
 to conduct their own research and exercise appropriate caution when
 interacting with blockchain-based applications.
+
+-----
+
+## 📌 Topics
+blockchain  bsc  bep20  defi  web3  smart-contract  security  certik-audited
