@@ -1,27 +1,46 @@
 # Security Policy
 
-## Responsible Disclosure
+## Responsible Disclosure Policy
 
-Bitcos Pro (BOS) follows a responsible disclosure process
-to identify and address potential security vulnerabilities.
+Bitcos Pro (BOS) is committed to maintaining a secure, transparent, and
+responsibly governed blockchain ecosystem. The BOS smart contract has been
+independently audited by CertiK, and security is treated as an ongoing process.
 
-The Bitcos Pro (BOS) smart contract has been independently
-audited by CertiK. While no system can be guaranteed to be
-completely risk-free, security is treated as a continuous
-and proactive process.
+We encourage security researchers, developers, and community members to
+responsibly disclose any potential vulnerabilities or security concerns.
 
 ## Reporting a Vulnerability
 
-If you believe you have discovered a potential security issue,
-please report it responsibly using the contact below:
+If you identify a potential security issue related to the Bitcos Pro (BOS)
+smart contract, website, or associated infrastructure, please report it
+privately using the contact details below.
 
-📧 Email: security@bitcos.io
+📧 **Security Contact:** security@bitcos.io
 
-Please include clear reproduction steps, relevant transaction
-hashes, contract addresses, and any supporting evidence.
+Please include, where possible:
+- A clear description of the issue
+- Steps to reproduce the vulnerability
+- Relevant transaction hashes, addresses, or screenshots
+- Any suggested remediation (optional)
 
-We request that vulnerabilities are **not disclosed publicly**
-until they have been reviewed and addressed.
+## Disclosure Guidelines
 
-Researchers acting in good faith will not face legal action
-and will be acknowledged where appropriate.
+- Please **do not disclose vulnerabilities publicly** until they have been
+  reviewed and addressed by the Bitcos Pro team.
+- We aim to acknowledge valid reports in a timely manner and take appropriate
+  remediation steps based on severity and impact.
+- Responsible disclosure helps protect users, the protocol, and the broader
+  ecosystem.
+
+## Scope
+
+This policy applies to:
+- The Bitcos Pro (BOS) smart contract deployed on BNB Smart Chain
+- Official project infrastructure and services
+- Related documentation and repositories maintained by the project
+
+---
+
+Security is an ongoing commitment, and the Bitcos Pro team continuously
+reviews, monitors, and improves its security practices in alignment with
+industry standards and ecosystem growth.
