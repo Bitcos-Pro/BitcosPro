@@ -42,16 +42,15 @@ on the blockchain.
 
 ## 🎯 Repository Purpose
 
-This repository is maintained for **transparency and documentation purposes**.
+This repository is maintained for transparency, documentation,
+and reference purposes, and reflects the audited smart contract
+currently deployed on-chain.
+
 It serves as a public reference for:
 - Smart contract information
 - Security and audit disclosures
 - Official project links
 - Ecosystem documentation
-
-This repository is maintained for transparency, documentation,
-and reference purposes, and reflects the audited smart contract
-currently deployed on-chain.
 
 ---
 
