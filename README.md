@@ -49,8 +49,9 @@ It serves as a public reference for:
 - Official project links
 - Ecosystem documentation
 
-This repository is **not intended for deployment or modification**
-of live contracts.
+This repository is maintained for transparency, documentation,
+and reference purposes, and reflects the audited smart contract
+currently deployed on-chain.
 
 ---
 
