@@ -1,4 +1,4 @@
-# Changelog
+## Changelog
 
 ## v1.0.0 – 2026-02-01
 - Initial audited BOS smart contract release
