@@ -149,6 +149,7 @@ contract BitcosPro is IERC20, Ownable {
     // -----------------------------------------------------------------------
     // Optional helper function
     // -----------------------------------------------------------------------
+
     function tokenDetails() external pure returns (string memory, string memory, uint8, uint256) {
         return (_name, _symbol, _decimals, _totalSupply);
     }
