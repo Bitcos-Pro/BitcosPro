@@ -22,9 +22,8 @@ The Bitcos Pro (BOS) smart contract has been independently audited by
 
 **Audit Details**
 - Auditor: CertiK  
-- Audit Date: December 4, 2025  
-- Audit Report:  
-  https://skynet.certik.com/projects/bitcos-pro  
+- Audit Date: December 4, 2025
+- Audit Report: https://skynet.certik.com/projects/bitcos-pro  
 
 Continuous security monitoring is enabled via **CertiK Skynet**.
 
