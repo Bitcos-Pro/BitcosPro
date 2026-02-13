@@ -29,3 +29,10 @@ Please include:
 Bitcos Pro (BOS) follows industry best practices for responsible disclosure and
 continuous security improvement to protect users, assets, and protocol
 integrity.
+
+------
+
+##
+Continuous monitoring and verification are managed via CertiK Skynet:
+https://skynet.certik.com/projects/bitcos-pro
+
