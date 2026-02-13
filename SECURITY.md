@@ -32,7 +32,7 @@ integrity.
 
 ------
 
-##
-Continuous monitoring and verification are managed via CertiK Skynet:
-https://skynet.certik.com/projects/bitcos-pro
+### 📘 Additional Resources
+For detailed audit information and continuous security monitoring, visit:  
+[https://skynet.certik.com/projects/bitcos-pro](https://skynet.certik.com/projects/bitcos-pro)
 
