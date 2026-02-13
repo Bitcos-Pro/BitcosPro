@@ -69,6 +69,15 @@ It serves as a public reference for:
 
 ---
 
+## 🔐 Security & Audit
+The Bitcos Pro (BOS) smart contract has been independently audited and continuously monitored by CertiK.
+
+For detailed audit information, visit:  
+👉 [https://skynet.certik.com/projects/bitcos-pro](https://skynet.certik.com/projects/bitcos-pro)
+
+
+-----
+
 ## 📌 Disclaimer
 While the BOS smart contract has undergone independent security auditing,
 no system can be guaranteed to be completely risk-free. Users are encouraged
