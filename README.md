@@ -82,3 +82,7 @@ Users are encouraged to **conduct their own research (DYOR)** and practice respo
 **Maintained by the Bitcos Pro Core Team**  
 Verified by [CertiK Skynet](https://skynet.certik.com/projects/bitcos-pro)
 
+🔗 **Verification Links**
+- 🔍 [CertiK Skynet](https://skynet.certik.com/projects/bitcos-pro)
+- 🔐 [PinkSale Token Lock](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
+- 💧 [PinkSale LP Lock](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)
