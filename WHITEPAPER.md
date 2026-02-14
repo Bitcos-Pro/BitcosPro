@@ -327,3 +327,8 @@ By combining audited smart contracts, structured tokenomics, and progressive gov
 💧 Token Lock — [PinkSale Lock 1](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)  
 💧 LP Lock — [PinkSale Lock 2](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)  
 📜 GitHub — [https://github.com/Bitcos-Pro/BitcosPro](https://github.com/Bitcos-Pro/BitcosPro)
+
+🔗 **Verification Links**
+- 🔍 [CertiK Skynet](https://skynet.certik.com/projects/bitcos-pro)
+- 🔐 [PinkSale Token Lock](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
+- 💧 [PinkSale LP Lock](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)
