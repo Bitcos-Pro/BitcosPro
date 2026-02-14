@@ -1,38 +1,31 @@
-# Security Policy
+# 🔐 Security Policy
 
-## Reporting a Vulnerability
+## Supported Versions
+| Version | Supported |
+|----------|------------|
+| 1.0.x | ✅ |
 
-Bitcos Pro (BOS) is committed to maintaining a secure, transparent, and
-responsibly governed Web3 ecosystem. The BOS smart contract has been
-independently audited by CertiK, and security is treated as an ongoing process.
+## Reporting Vulnerabilities
+Bitcos Pro welcomes responsible security disclosures.  
+If you discover a vulnerability, please email us at:
 
-### Responsible Disclosure
+📧 **security@bitcos.io**
 
-If you discover a potential vulnerability, misconfiguration, or security risk
-related to the Bitcos Pro (BOS) smart contract, website, or supporting
-infrastructure, we request that you report it responsibly.
+We will review and acknowledge valid reports within **48 hours** and aim to provide a fix within **7 days** for critical issues.
 
-📧 **Security Contact:** security@bitcos.io
+## Bug Bounty
+A formal **Bug Bounty Program** is under setup with CertiK.  
+Eligible researchers will receive rewards for responsibly disclosed issues.
 
-Please include:
-- A clear description of the issue
-- Steps to reproduce (if applicable)
-- Potential impact assessment
+---
 
-### Disclosure Guidelines
+### Guidelines
+- Do **not** disclose issues publicly before coordination with the Bitcos Pro security team.
+- Provide detailed reproduction steps and potential impact.
+- Avoid spamming or testing on mainnet contracts.
 
-- Do **not** disclose vulnerabilities publicly before review and mitigation  
-- Allow the team reasonable time to investigate and respond  
-- We aim to acknowledge valid reports promptly and coordinate fixes
-  responsibly
+---
 
-Bitcos Pro (BOS) follows industry best practices for responsible disclosure and
-continuous security improvement to protect users, assets, and protocol
-integrity.
-
-------
-
-### 📘 Additional Resources
-For detailed audit information and continuous security monitoring, visit:  
-[https://skynet.certik.com/projects/bitcos-pro](https://skynet.certik.com/projects/bitcos-pro)
+**Responsible Disclosure Commitment**  
+Your contributions help strengthen the Bitcos ecosystem for everyone.
 
