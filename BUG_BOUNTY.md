@@ -18,7 +18,7 @@ This Bug Bounty Program invites security researchers, auditors, and ethical hack
 - Staking, Swap, Vault, Referral, and Governance modules  
 - Official dApp and API endpoints  
   - https://bitcos.io  
-  - https://app.bitcos.io  
+ 
 
 ### 🚫 Out-of-Scope
 - Issues caused by third-party services (e.g., Binance, CertiK, PinkSale)  
