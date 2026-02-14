@@ -1,1 +1,15 @@
+{
+  "name": "Bitcos Pro",
+  "symbol": "BOS",
+  "standard": "BEP-20",
+  "network": "BNB Smart Chain",
+  "contract": "0xbcf2349b0092648073389e753d3E77BEc9Cef604",
+  "audit": "https://skynet.certik.com/projects/bitcos-pro",
+  "website": "https://bitcos.io",
+  "github": "https://github.com/Bitcos-Pro/BitcosPro",
+  "category": ["DeFi", "Staking", "Payments", "Governance"],
+  "status": "Active",
+  "verified_by": "CertiK",
+  "whitepaper": "https://bitcos.io/whitepaper.pdf"
+}
 
