@@ -80,6 +80,12 @@ Audit Partner: [CertiK](https://skynet.certik.com/projects/bitcos-pro)
 Repository: [https://github.com/Bitcos-Pro/BitcosPro](https://github.com/Bitcos-Pro/BitcosPro)
 
 ---
+### v1.0.2 — Dec 2025
+- CertiK Audit Report Added
+- PinkSale Lock Links Updated
+- SECURITY.md & BUG_BOUNTY.md published
+
+-----
 
 > 💎 *Secure • Transparent • Scalable*  
 > Bitcos Pro (BOS) — Building Trust in Digital Finance.
