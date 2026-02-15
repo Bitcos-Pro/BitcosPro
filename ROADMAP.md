@@ -129,7 +129,7 @@ Bitcos Pro (BOS) aims to build a global Web3 ecosystem driven by:
 **Bitcos Pro Core Team**  
 🌐 [https://bitcos.io](https://bitcos.io) | 🕊️ [X (Twitter)](https://x.com/mybitcos) | 💬 [Telegram](https://t.me/mybitcos)  
 📧 [support@bitcos.io](mailto:support@bitcos.io)  
-🔍 Audit Partner: [:contentReference[oaicite:0]{index=0}](https://skynet.certik.com/projects/bitcos-pro)
+🔍 Audit Partner: (https://skynet.certik.com/projects/bitcos-pro)
 
 ---
 
