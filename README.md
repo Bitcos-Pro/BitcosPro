@@ -74,6 +74,11 @@ Users are encouraged to **conduct their own research (DYOR)** and practice respo
 
 ---
 
+## 🛡️ Security Policy: [SECURITY.md](./SECURITY.md)  
+## 🐞 Bug Reporting: [BUG_BOUNTY.md](./BUG_BOUNTY.md)
+
+-----
+
 ### 💠 Secure • Transparent • Scalable  
 **Bitcos Pro (BOS)** — *Building Trust in Digital Finance.*
 
