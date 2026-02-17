@@ -32,7 +32,7 @@
 - Project metadata successfully validated via CoinMarketCap Free Tier Review.  
 - All verifiable links (website, socials, audit, locks) confirmed by CMC team.  
 - Awaiting frontend listing on CoinMarketCap public pages.  
-- Next crawler sync expected within 14–21 days post verification.
+
 
 ---
 
