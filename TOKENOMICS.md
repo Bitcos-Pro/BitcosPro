@@ -90,3 +90,6 @@ Bitcos Pro commits to maintaining transparent reporting, on-chain verification, 
 
 **💠 Bitcos Pro — Secure • Transparent • Scalable**  
 Empowering a Decentralized Future Through Trust and Accountability.
+
+## 🔗 Refer to [Project_info.json](../Project_info.json) for on-chain parameters and live metadata sync.
+
