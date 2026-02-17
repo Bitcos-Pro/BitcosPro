@@ -10,6 +10,7 @@ The project promotes trust through **on-chain verifiability**, **independent aud
 - 🕊️ **X (Twitter):** [https://x.com/mybitcos](https://x.com/mybitcos)  
 - 💬 **Telegram:** [https://t.me/mybitcos](https://t.me/mybitcos)  
 - 📰 **Medium:** [https://medium.com/@BitcosPro](https://medium.com/@BitcosPro)  
+- 🧩 Metadata: [https://bitcos.io/metadata.json](https://bitcos.io/metadata.json)
 
 ---
 
