@@ -36,12 +36,13 @@ Continuous monitoring is **enabled via CertiK Skynet**.
 ---
 
 ## 📄 Smart Contract Information
+
 - **Network:** BNB Smart Chain (BEP-20)  
 - **Contract Address:** `0xbcf2349b0092648073389e753d3E77BEc9Cef604`  
-- **Audit Partner:** :contentReference[oaicite:3]{index=3}  
-- **Verification:** Verified on :contentReference[oaicite:4]{index=4}, Skynet, and GitHub  
+- **Audit Partner:** [:contentReference[oaicite:3]{index=3}](https://skynet.certik.com/projects/bitcos-pro)  
+- **Verification:** Verified on [:contentReference[oaicite:4]{index=4}](https://bscscan.com/token/0xbcf2349b0092648073389e753d3E77BEc9Cef604), CertiK Skynet, and GitHub  
 
-All contract interactions and token transactions are **publicly verifiable on-chain.**
+All contract interactions, token supply, and transaction records are **fully verifiable on-chain** — ensuring complete transparency and immutability.
 
 ---
 
