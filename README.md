@@ -5,7 +5,6 @@
 [![CoinGecko Listed](https://img.shields.io/badge/Listed%20on-CoinGecko-72BF44?style=for-the-badge&logo=coingecko&logoColor=white)](https://www.coingecko.com/en/coins/bitcos-pro)
 [![BSC Contract Verified](https://img.shields.io/badge/BSC-Contract%20Verified-F0B90B?style=for-the-badge&logo=bnbchain&logoColor=white)](https://bscscan.com/token/0xbcf2349b0092648073389e753d3E77BEc9Cef604)
 [![Metadata Verified](https://img.shields.io/badge/Metadata-Verified-blue?style=for-the-badge)](https://bitcos.io/metadata.json)
-
 ---
 
 **Bitcos Pro (BOS)** is a **global Web3 DeFi ecosystem** focused on **transparency**, **security**, and **responsible long-term community growth**.  
