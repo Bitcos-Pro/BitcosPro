@@ -18,7 +18,7 @@
 ### 🔗 Verification References
 - 🌐 Website: [https://bitcos.io](https://bitcos.io)  
 - 🧾 Metadata: [https://bitcos.io/metadata.json](https://bitcos.io/metadata.json)  
-- 🔍 Audit Partner: [:contentReference[oaicite:0]{index=0}] ( https://skynet.certik.com/projects/bitcos-pro )   
+- 🔍 Audit Partner: [ https://skynet.certik.com/projects/bitcos-pro )   
 - 💧 Token Lock: [PinkSale Token Lock](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)  
 - 💧 LP Lock: [PinkSale LP Lock](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)  
 - 📘 Whitepaper: [https://bitcos.io/BitcosPro-Whitepaper.pdf](https://bitcos.io/BitcosPro-Whitepaper.pdf)  
