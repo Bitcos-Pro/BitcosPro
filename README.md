@@ -1,16 +1,15 @@
 # 💠 Bitcos Pro (BOS)
 
-[![Verified on CoinMarketCap](https://img.shields.io/badge/Verified%20on-CoinMarketCap-0056D2?style=for-the-badge&logo=coinmarketcap&logoColor=white)](https://dex.coinmarketcap.com/token/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
+[![CoinMarketCap – Under Review](https://img.shields.io/badge/CoinMarketCap-Under%20Review-0056D2?style=for-the-badge&logo=coinmarketcap&logoColor=white)](https://dex.coinmarketcap.com/token/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
 [![Audited by CertiK](https://img.shields.io/badge/Audited%20by-CertiK-00A86B?style=for-the-badge&logo=certik&logoColor=white)](https://skynet.certik.com/projects/bitcos-pro)
-[![BSC Contract Verified](https://img.shields.io/badge/BSC-Contract%20Verified-F0B90B?style=for-the-badge&logo=bnbchain&logoColor=white)](https://bscscan.com/token/0xbcf2349b0092648073389e753d3E77BEc9Cef604)
 [![CoinGecko Listed](https://img.shields.io/badge/Listed%20on-CoinGecko-72BF44?style=for-the-badge&logo=coingecko&logoColor=white)](https://www.coingecko.com/en/coins/bitcos-pro)
+[![BSC Contract Verified](https://img.shields.io/badge/BSC-Contract%20Verified-F0B90B?style=for-the-badge&logo=bnbchain&logoColor=white)](https://bscscan.com/token/0xbcf2349b0092648073389e753d3E77BEc9Cef604)
 [![Metadata Verified](https://img.shields.io/badge/Metadata-Verified-blue?style=for-the-badge)](https://bitcos.io/metadata.json)
 
 ---
 
 **Bitcos Pro (BOS)** is a **global Web3 DeFi ecosystem** focused on **transparency**, **security**, and **responsible long-term community growth**.  
 The project promotes trust through **on-chain verifiability**, **independent auditing**, and **open documentation** — redefining how decentralized ecosystems build credibility.
-
 ---
 
 ## 🌐 Official Links
