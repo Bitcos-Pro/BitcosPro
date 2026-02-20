@@ -1,5 +1,13 @@
 # 💠 Bitcos Pro (BOS)
 
+[![Verified on CoinMarketCap](https://img.shields.io/badge/Verified%20on-CoinMarketCap-0056D2?style=for-the-badge&logo=coinmarketcap&logoColor=white)](https://dex.coinmarketcap.com/token/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
+[![Audited by CertiK](https://img.shields.io/badge/Audited%20by-CertiK-00A86B?style=for-the-badge&logo=certik&logoColor=white)](https://skynet.certik.com/projects/bitcos-pro)
+[![BSC Contract Verified](https://img.shields.io/badge/BSC-Contract%20Verified-F0B90B?style=for-the-badge&logo=bnbchain&logoColor=white)](https://bscscan.com/token/0xbcf2349b0092648073389e753d3E77BEc9Cef604)
+[![CoinGecko Listed](https://img.shields.io/badge/Listed%20on-CoinGecko-72BF44?style=for-the-badge&logo=coingecko&logoColor=white)](https://www.coingecko.com/en/coins/bitcos-pro)
+[![Metadata Verified](https://img.shields.io/badge/Metadata-Verified-blue?style=for-the-badge)](https://bitcos.io/metadata.json)
+
+---
+
 **Bitcos Pro (BOS)** is a **global Web3 DeFi ecosystem** focused on **transparency**, **security**, and **responsible long-term community growth**.  
 The project promotes trust through **on-chain verifiability**, **independent auditing**, and **open documentation** — redefining how decentralized ecosystems build credibility.
 
@@ -10,16 +18,18 @@ The project promotes trust through **on-chain verifiability**, **independent aud
 - 🕊️ **X (Twitter):** [https://x.com/mybitcos](https://x.com/mybitcos)  
 - 💬 **Telegram:** [https://t.me/mybitcos](https://t.me/mybitcos)  
 - 📰 **Medium:** [https://medium.com/@BitcosPro](https://medium.com/@BitcosPro)  
-- 🧩 Metadata: [https://bitcos.io/metadata.json](https://bitcos.io/metadata.json)
+- 🧩 **Metadata:** [https://bitcos.io/metadata.json](https://bitcos.io/metadata.json)  
+- 💻 **GitHub Repository:** [https://github.com/Bitcos-Pro/BitcosPro](https://github.com/Bitcos-Pro/BitcosPro)
 
 ---
 
 ## 🛡️ Security & Audit
-The **Bitcos Pro (BOS)** smart contract has been independently audited by **:contentReference[oaicite:1]{index=1}**, a globally recognized blockchain security and risk-analysis firm.  
-Continuous monitoring is **enabled via :contentReference[oaicite:2]{index=2}**.
 
-**🔍 Audit Overview**
-- **Auditor:** CertiK  
+The **Bitcos Pro (BOS)** smart contract has been independently audited by **:contentReference[oaicite:1]{index=1}**, a globally recognized blockchain security and risk-analysis firm.  
+Continuous monitoring is **enabled via CertiK Skynet**.
+
+### 🔍 Audit Overview
+- **Auditor:** :contentReference[oaicite:2]{index=2}  
 - **Audit Date:** December 4, 2025  
 - **Audit Report:** [View on CertiK Skynet](https://skynet.certik.com/projects/bitcos-pro)  
 - **Status:** ✅ Verified | 🧭 Active Monitoring  
@@ -28,17 +38,16 @@ Continuous monitoring is **enabled via :contentReference[oaicite:2]{index=2}**.
 
 ## 📄 Smart Contract Information
 - **Network:** BNB Smart Chain (BEP-20)  
-- **Contract Address:**  
-0xbcf2349b0092648073389e753d3E77BEc9Cef604
-
-- **Audit Partner:** CertiK  
-- **Verification:** Verified on BscScan, Skynet, and GitHub  
+- **Contract Address:** `0xbcf2349b0092648073389e753d3E77BEc9Cef604`  
+- **Audit Partner:** :contentReference[oaicite:3]{index=3}  
+- **Verification:** Verified on :contentReference[oaicite:4]{index=4}, Skynet, and GitHub  
 
 All contract interactions and token transactions are **publicly verifiable on-chain.**
 
 ---
 
 ## ⚙️ Ecosystem Utilities
+
 **Bitcos Pro (BOS)** powers a multi-utility Web3 ecosystem designed for transparency, scalability, and real-world usability:
 
 | Utility | Description |
@@ -59,6 +68,7 @@ All contract interactions and token transactions are **publicly verifiable on-ch
 ---
 
 ## 🎯 Repository Purpose
+
 This repository serves as the **official reference** for:
 - Smart contract specifications  
 - Audit and security documentation  
@@ -70,15 +80,17 @@ It reflects the **audited smart contract** currently deployed on-chain.
 ---
 
 ## ⚠️ Disclaimer
-While the BOS smart contract has undergone independent security auditing, **no system can be guaranteed completely risk-free**.  
+
+While the BOS smart contract has undergone independent security auditing, **no system can be guaranteed completely risk-free.**  
 Users are encouraged to **conduct their own research (DYOR)** and practice responsible participation within the Bitcos ecosystem.
 
 ---
 
-## 🛡️ Security Policy: [SECURITY.md](./SECURITY.md)  
-## 🐞 Bug Reporting: [BUG_BOUNTY.md](./BUG_BOUNTY.md)
+## 🧾 Policies & Reporting
+- 🛡️ **Security Policy:** [SECURITY.md](./SECURITY.md)  
+- 🐞 **Bug Reporting:** [BUG_BOUNTY.md](./BUG_BOUNTY.md)
 
------
+---
 
 ### 💠 Secure • Transparent • Scalable  
 **Bitcos Pro (BOS)** — *Building Trust in Digital Finance.*
@@ -86,9 +98,13 @@ Users are encouraged to **conduct their own research (DYOR)** and practice respo
 ---
 
 **Maintained by the Bitcos Pro Core Team**  
-Verified by [CertiK Skynet](https://skynet.certik.com/projects/bitcos-pro)
+**Verified by:** [:contentReference[oaicite:5]{index=5} Skynet](https://skynet.certik.com/projects/bitcos-pro)
 
-🔗 **Verification Links**
-- 🔍 [CertiK Skynet](https://skynet.certik.com/projects/bitcos-pro)
-- 🔐 [PinkSale Token Lock](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
-- 💧 [PinkSale LP Lock](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)
+---
+
+### 🔗 Verification Links
+- 🔍 [:contentReference[oaicite:6]{index=6} Skynet](https://skynet.certik.com/projects/bitcos-pro)
+- 🔐 [:contentReference[oaicite:7]{index=7} Token Lock](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
+- 💧 [:contentReference[oaicite:8]{index=8} LP Lock](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)
+
+- 
