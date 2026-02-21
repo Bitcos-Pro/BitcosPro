@@ -1,5 +1,16 @@
-# 🔐 Security Disclosure
-All vulnerabilities should be responsibly reported to **security@bitcos.io**.  
-Reports will be reviewed by the **Bitcos Core Security Team** within 72 hours.  
-No bounty applies to phishing or third-party issues.  
-Refer full policy: [BUG_BOUNTY.md](./BUG_BOUNTY.md)
+# 🔐 Security Disclosure Policy — Bitcos Pro (BOS)
+
+Bitcos Pro (BOS) prioritizes **security, transparency, and community protection**.  
+If you discover any security vulnerability, please report it responsibly.
+
+## 📬 Reporting Procedure
+- Email: **security@bitcos.io**
+- Include: vulnerability details, impact, and proof of concept (if possible)
+- We aim to acknowledge all reports within **72 hours**
+
+## ⚠️ Important Notes
+- Please **do not exploit** or share vulnerabilities publicly before patching.  
+- Reports unrelated to Bitcos smart contracts, such as phishing or social engineering, will not qualify for bounty.  
+- Review our full bug bounty details here → [BUG_BOUNTY.md](./BUG_BOUNTY.md)
+
+**Thank you for helping secure the Bitcos ecosystem.**
