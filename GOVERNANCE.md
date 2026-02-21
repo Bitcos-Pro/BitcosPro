@@ -1,30 +1,39 @@
 # ⚙️ Bitcos Governance Framework
 
-Bitcos Pro embraces decentralized decision-making through **DAO-based voting mechanisms**.
-
-## Governance Principles
-1. **Transparency:** All proposals and votes are recorded on-chain.  
-2. **Participation:** Every BOS token holder can participate in governance.  
-3. **Accountability:** Proposal outcomes are enforced via smart contracts.
+**Bitcos Pro (BOS)** embraces decentralized decision-making through a **DAO-based governance system**, empowering the community to shape the project’s future transparently and securely.
 
 ---
 
-## Governance Model
+## 🧭 Governance Principles
+1. **Transparency:** All proposals and voting results are recorded on-chain and publicly accessible.  
+2. **Participation:** Every BOS token holder has the right to participate, propose, and vote.  
+3. **Accountability:** Approved proposals are automatically executed via smart contracts, ensuring trustless governance.
+
+---
+
+## 🏛️ Governance Model
+
 | Stage | Description |
-|--------|--------------|
-| Proposal | Any eligible holder can submit a governance proposal. |
-| Voting | Community votes via on-chain DAO contract. |
-| Execution | Approved proposals are automatically implemented. |
+|--------|-------------|
+| **Proposal** | Eligible token holders can submit governance proposals. |
+| **Voting** | The community votes using the on-chain DAO contract. |
+| **Execution** | Approved proposals are implemented automatically via smart contracts. |
 
 ---
 
-## Proposal Categories
-- Ecosystem Upgrades  
-- Treasury Allocations  
-- Partnerships & Integrations  
-- Tokenomics Adjustments  
+## 🗳️ Proposal Categories
+- 🔧 **Ecosystem Upgrades**  
+- 💰 **Treasury Allocations**  
+- 🤝 **Partnerships & Integrations**  
+- 📊 **Tokenomics Adjustments**
 
 ---
 
-### Upcoming
-The **BOS DAO Contract** is in testnet phase and will be launched in Q2 2026.
+### 🚀 Upcoming
+The **BOS DAO Smart Contract** is currently in the **testnet phase** and is scheduled for **mainnet launch in Q2 2026**.
+
+---
+
+*Empowering the community through transparent, verifiable, and decentralized governance.*
+
+
