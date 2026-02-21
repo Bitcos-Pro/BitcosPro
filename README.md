@@ -106,4 +106,8 @@ Users are encouraged to **conduct their own research (DYOR)** and practice respo
 - 🔐 [:contentReference[oaicite:7]{index=7} Token Lock](https://www.pinksale.finance/pinklock/bsc/0xbcf2349b0092648073389e753d3e77bec9cef604)
 - 💧 [:contentReference[oaicite:8]{index=8} LP Lock](https://www.pinksale.finance/pinklock/bsc/0x8ff1658bb320aeb5b702bf00fb9c3b8911fda79d)
 
-- 
+
+---
+### 🗓️ Last Updated: February 22, 2026  
+Maintained by **Bitcos Pro Core Team**  
+🔗 [Website](https://bitcos.io) • [Audit](https://skynet.certik.com/projects/bitcos-pro) • [Docs](https://github.com/Bitcos-Pro/BitcosPro)
