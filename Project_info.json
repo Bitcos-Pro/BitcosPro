@@ -1,15 +1,18 @@
 {
   "name": "Bitcos Pro",
   "symbol": "BOS",
+  "type": "token",
   "standard": "BEP-20",
   "network": "BNB Smart Chain",
-  "contract": "0xbcf2349b0092648073389e753d3E77BEc9Cef604",
-  "audit": "https://skynet.certik.com/projects/bitcos-pro",
+  "contract_address": "0xbcf2349b0092648073389e753d3E77BEc9Cef604",
+  "decimals": 18,
+  "description": "Bitcos Pro (BOS) is a global Web3 DeFi ecosystem focused on transparency, security, and community-driven growth, integrating staking, payments, governance, and smart DeFi utilities.",
   "website": "https://bitcos.io",
+  "whitepaper": "https://bitcos.io/whitepaper.pdf",
   "github": "https://github.com/Bitcos-Pro/BitcosPro",
-  "category": ["DeFi", "Staking", "Payments", "Governance"],
-  "status": "Active",
+  "audit": "https://skynet.certik.com/projects/bitcos-pro",
+  "categories": ["DeFi", "Staking", "Payments", "Governance"],
   "verified_by": "CertiK",
-  "whitepaper": "https://bitcos.io/whitepaper.pdf"
+  "status": "active",
+  "last_updated": "2026-02-21T00:00:00Z"
 }
-
