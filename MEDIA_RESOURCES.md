@@ -5,7 +5,7 @@ Bitcos Pro (BOS) is a **Web3 DeFi ecosystem** audited by [CertiK](https://skynet
 focused on transparency, smart contract integrity, and decentralized growth.
 
 ## 📦 Brand Assets
-- 🖼️ **Official Logo Pack:** [Download](https://bitcos.io/media/Bitcos-Logo-Pack.zip)
+- 🖼️ **Official Logo Pack:** [Download]( https://bitcos.io/logobitcos1024x1024.png)
 - 📘 **Project Overview (PDF):** [Download](https://bitcos.io/BitcosPro-Overview.pdf)
 - 🎨 **Brand Guidelines:** [https://bitcos.io/branding](https://bitcos.io/branding)
 
