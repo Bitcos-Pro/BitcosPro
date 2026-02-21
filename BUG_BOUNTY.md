@@ -1,29 +1,28 @@
-# 🛡️ Bitcos Pro (BOS) Bug Bounty & Responsible Disclosure Policy
+# 🛡️ Bitcos Pro (BOS) — Bug Bounty & Responsible Disclosure Policy
 
 ## 🔍 Overview
-Bitcos Pro (BOS) is a **CertiK-audited decentralized ecosystem** built on **BNB Smart Chain (BEP-20)**.  
-Security, transparency, and responsible disclosure are core principles of the Bitcos Pro community.
+**Bitcos Pro (BOS)** is a **:contentReference[oaicite:3]{index=3}-audited decentralized ecosystem** built on the **BNB Smart Chain (BEP-20)**.  
+Security, transparency, and responsible disclosure are fundamental principles of the Bitcos Pro community.
 
-This Bug Bounty Program invites security researchers, auditors, and ethical hackers to report any vulnerabilities found in our smart contracts or Web3 infrastructure.
+This Bug Bounty Program encourages security researchers, auditors, and ethical hackers to responsibly report vulnerabilities identified in our smart contracts or Web3 infrastructure.
 
-> Our goal: **Zero critical vulnerabilities and 100% on-chain transparency.**
+> 🎯 *Goal: Zero critical vulnerabilities and 100% on-chain transparency.*
 
 ---
 
-## 🎯 Scope of the Program
+## 🎯 Program Scope
 
 ### ✅ In-Scope Components
-- Smart contracts deployed under:  
+- Smart contract deployed at:  
   `0xbcf2349b0092648073389e753d3E77BEc9Cef604`
-- Staking, Swap, Vault, Referral, and Governance modules  
-- Official dApp and API endpoints  
-  - https://bitcos.io  
- 
+- Modules: **Staking**, **Swap**, **Vault**, **Referral**, and **Governance**  
+- Official dApp and API endpoints:  
+  - [https://bitcos.io](https://bitcos.io)
 
 ### 🚫 Out-of-Scope
-- Issues caused by third-party services (e.g., Binance, CertiK, PinkSale)  
-- Phishing, social engineering, or spam-related vulnerabilities  
-- UI/UX suggestions without a direct security impact  
+- Third-party service vulnerabilities (e.g., :contentReference[oaicite:4]{index=4}, CertiK, :contentReference[oaicite:5]{index=5})  
+- Phishing, social engineering, or spam-based exploits  
+- UI/UX or performance suggestions without direct security impact  
 
 ---
 
@@ -32,24 +31,24 @@ This Bug Bounty Program invites security researchers, auditors, and ethical hack
 | Severity Level | Example Vulnerability | Typical Reward |
 |----------------|------------------------|----------------|
 | 🟥 **Critical** | Token theft, liquidity drain, bypassing vesting/lock | Up to **$3,000** |
-| 🟧 **High** | Unauthorized transfer, logic manipulation | Up to **$1,500** |
-| 🟨 **Medium** | Gas optimization exploit, access control flaw | Up to **$500** |
+| 🟧 **High** | Unauthorized transfer, business logic manipulation | Up to **$1,500** |
+| 🟨 **Medium** | Access control flaw, gas optimization exploit | Up to **$500** |
 | 🟩 **Low** | Minor configuration issue or typo | Acknowledgment |
 
-> Rewards depend on reproducibility, impact, and responsible disclosure quality.
+> 💡 Rewards are based on reproducibility, impact, and report quality.
 
 ---
 
 ## 📬 Reporting Guidelines
 
-Send your detailed report to:  
+Send vulnerability reports to:  
 📧 **security@bitcos.io**
 
-Your report should include:
-1. Vulnerability description  
-2. Steps to reproduce  
-3. Potential impact and suggested fix  
-4. Proof-of-concept (if available)
+**Your report should include:**
+1. Detailed vulnerability description  
+2. Reproduction steps  
+3. Impact analysis and suggested mitigation  
+4. Proof-of-concept (PoC), if applicable  
 
 You may also submit via:  
 🔗 [CertiK Skynet – Bitcos Pro Project](https://skynet.certik.com/projects/bitcos-pro)
@@ -57,18 +56,18 @@ You may also submit via:
 ---
 
 ## 🤝 Responsible Disclosure Policy
-We request that researchers:
-- **Do not** exploit the vulnerability beyond testing.  
-- **Do not** disclose details publicly before the issue is fixed.  
-- **Provide sufficient time** for verification and remediation.  
+Researchers must:  
+- **Not exploit** any discovered vulnerability beyond testing.  
+- **Not publicly disclose** details until the issue is resolved.  
+- **Provide reasonable time** for validation and remediation.  
 
-Researchers acting in good faith will not face legal action or penalties.
+Researchers acting in good faith will be acknowledged and protected from legal action.
 
 ---
 
 ## 🏅 Recognition
-Valid reports will be listed on the **Bitcos Pro Security Hall of Fame**,  
-and researchers will be publicly acknowledged through official community channels.
+Valid and verified reports will be listed in the **Bitcos Pro Security Hall of Fame**,  
+and contributors may be publicly recognized across official communication channels.
 
 ---
 
@@ -80,9 +79,10 @@ and researchers will be publicly acknowledged through official community channel
 ---
 
 ## 💠 Our Commitment
-Bitcos Pro (BOS) maintains an open, transparent, and security-first environment.  
-We deeply value the contributions of ethical researchers who help strengthen our decentralized ecosystem.  
+**Bitcos Pro (BOS)** maintains an open, transparent, and security-first environment.  
+We deeply appreciate the contributions of ethical researchers who strengthen our decentralized ecosystem.  
 
-**Secure. Transparent. Scalable.**  
-— *Bitcos Pro Core Security Team*
-
+> **Secure • Transparent • Scalable**  
+> *— Bitcos Pro Core Security Team*
+>
+> 
